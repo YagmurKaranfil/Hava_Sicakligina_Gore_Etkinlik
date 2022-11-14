@@ -1,0 +1,1 @@
+# Hava_Sicakligina_Gore_Etkinlik
