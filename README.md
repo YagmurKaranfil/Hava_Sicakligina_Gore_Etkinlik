@@ -1,5 +1,6 @@
 # Hava_Sicakligina_Gore_Etkinlik
 
+www.patika.dev
 Program hava sıcaklığına göre kullanıcıya etkinlik önerecektir.
 
 Koşullar :
